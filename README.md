@@ -1,5 +1,9 @@
 # Maozai Photo Organizer
 Download:
+https://github.com/terryshenzhen/Maozai-Photo-Organizer/releases/tag/V1.0
+
+or 
+
 https://gitee.com/zzzbbb001_admin/maozai-photo-organizer/releases/tag/v1.0
 
 //--------------English--------------
